@@ -5,3 +5,19 @@
 ###不对劲
 # 这样才对
 ## 隔一个空格
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+  function fancyAlert(arg) if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+  function fancyAlert(arg) {
+    if(arg) {
+      $.facebox({div:'#foo'})
+        }
+  }
