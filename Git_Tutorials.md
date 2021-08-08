@@ -103,7 +103,7 @@ git push origin main
 刷新github的demo2仓库，发现java_repos.html已经加入到demo2的主分支中。  
 但并不支持直接对主分支修改。也可以先新建一个分支再修改。如图。
 ![image](https://user-images.githubusercontent.com/81409445/128627972-3891bbdc-3352-4111-9f45-fac91e1c41fa.png)  
-![image](https://user-images.githubusercontent.com/81409445/128627993-426295c1-fb9d-451b-8004-4f702f7a8521.png)
+![image](https://user-images.githubusercontent.com/81409445/128627993-426295c1-fb9d-451b-8004-4f702f7a8521.png)  
 此时刷新github的demo2 可以看到`my-branch`分支已经添加到远程仓库中。  
 ![image](https://user-images.githubusercontent.com/81409445/128628008-b74b129c-60cc-4934-bd7c-8c8243c6197e.png)
 
