@@ -7,7 +7,8 @@ Git中所有命令都是以`git`开头,如上图中的`git add`、`git commit`�
 为方便演示，以我为例，在`D`盘的`CoderLife`文件夹下创建`demo`的子文件夹，在其中新建一个名为`git_learn.txt`的文本文件。
 第二节Git常用命令演示都是基于此`demo`文件夹  
 ![image](https://user-images.githubusercontent.com/81409445/128617659-5a644198-4a58-4679-a9e6-f4d3b8e913ad.png)  
-在`CoderLife`目录下点击右键在选择 Git Bash Here，打开Git Bash窗口，在命令行中输入 `cd demo`转到`demo`子目录下，也可以直接鼠标点击`demo`进入再打开Git Bash啦。  
+在`CoderLife`目录下点击右键在选择 Git Bash Here，打开Git Bash窗口，在命令行中输入 `cd demo`转到`demo`子目录下。  
+也可以先使用`mkdir demo`创建demo目录，`cd demo`转到demo目录,`pwd`查看当前所在目录。
 ![image](https://user-images.githubusercontent.com/81409445/128617859-966dcdae-ff38-439c-8246-a958801935ae.png)  
 ## 2.1 git status
 `git status`顾名思义，查看仓库状态，对于像我这样的新手来说，最常用的命令了属于是。建议读者多用此命令，以免出错。  
